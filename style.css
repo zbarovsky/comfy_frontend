@@ -1,0 +1,11 @@
+li {
+    list-style-type: none;
+}
+
+.container {
+    text-align: center;
+}
+
+.hidden {
+    visibility: hidden;
+}
